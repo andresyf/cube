@@ -52,31 +52,31 @@
 }
 
 .cube .face.front {
-  background: rgba(255, 71, 84, 0.9);
+  background: rgba(71, 74, 255, 0.9);
   transform: rotateY(0deg) translateZ(100px);
 }
 
 .cube .face.right {
-  background: rgba(182, 42, 52, 0.9);
+  background: rgba(42, 51, 182, 0.9);
   transform: rotateY(90deg) translateZ(100px);
 }
 
 .cube .face.back {
-  background: rgba(138, 29, 36, 0.9);
+  background: rgba(29, 54, 138, 0.9);
   transform: rotateY(180deg) translateZ(100px);
 }
 
 .cube .face.left {
-  background: rgba(255, 91, 101, 0.9);
+  background: rgba(91, 107, 255, 0.9);
   transform: rotateY(-90deg) translateZ(100px);
 }
 
 .cube .face.top {
-  background: rgba(255, 121, 130, 0.9);
+  background: rgba(121, 146, 255, 0.9);
   transform: rotateX(90deg) translateZ(100px);
 }
 
 .cube .face.bottom {
-  background: rgba(71, 18, 22, 0.9);
+  background: rgba(18, 37, 71, 0.9);
   transform: rotateX(-90deg) translateZ(100px);
 }
